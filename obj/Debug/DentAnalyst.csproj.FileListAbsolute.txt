@@ -1,0 +1,20 @@
+D:\Users\Everson\source\repos\DentAnalyst\DentAnalyst\obj\Debug\DentAnalyst.Properties.Resources.resources
+D:\Users\Everson\source\repos\DentAnalyst\DentAnalyst\obj\Debug\DentAnalyst.csproj.GenerateResource.cache
+D:\Users\Everson\source\repos\DentAnalyst\DentAnalyst\obj\Debug\DentAnalyst.View.ClientTable.resources
+D:\Users\Everson\source\repos\DentAnalyst\DentAnalyst\obj\Debug\DentAnalyst.View.ClientADD.resources
+D:\Users\Everson\source\repos\DentAnalyst\DentAnalyst\obj\Debug\DentAnalyst.csprojAssemblyReference.cache
+D:\Users\Everson\source\repos\DentAnalyst\DentAnalyst\obj\Debug\DentAnalyst.View.TestControl.resources
+D:\Users\Everson\source\repos\DentAnalyst\DentAnalyst\obj\Debug\DentAnalyst.View.UserControllers.CargosController.resources
+D:\Users\Everson\source\repos\DentAnalyst\DentAnalyst\obj\Debug\DentAnalyst.View.UserControllers.FuncionariosController.resources
+D:\Users\Everson\source\repos\DentAnalyst\DentAnalyst\obj\Debug\DentAnalyst.View.UserControllers.ServiçosController.resources
+D:\Users\Everson\source\repos\DentAnalyst\DentAnalyst\obj\Debug\DentAnalyst.View.Forms.FuncADD.resources
+D:\Users\Everson\source\repos\DentAnalyst\DentAnalyst\obj\Debug\DentAnalyst.View.Forms.CargoADDcs.resources
+D:\Users\Everson\source\repos\DentAnalyst\DentAnalyst\obj\Debug\DentAnalyst.View.Forms.SrvcADD.resources
+D:\Users\Everson\source\repos\DentAnalyst\DentAnalyst\obj\Debug\DentAnalyst.View.Forms.AgendaADD.resources
+D:\Users\Everson\source\repos\DentAnalyst\DentAnalyst\obj\Debug\DentAnalyst.View.UserControllers.AgendaControllers.resources
+D:\Users\Everson\source\repos\DentAnalyst\DentAnalyst\obj\Debug\DentAnalyst.Form1.resources
+D:\Users\Everson\source\repos\DentAnalyst\DentAnalyst\bin\Debug\System T4.exe.config
+D:\Users\Everson\source\repos\DentAnalyst\DentAnalyst\bin\Debug\System T4.exe
+D:\Users\Everson\source\repos\DentAnalyst\DentAnalyst\bin\Debug\System T4.pdb
+D:\Users\Everson\source\repos\DentAnalyst\DentAnalyst\obj\Debug\System T4.exe
+D:\Users\Everson\source\repos\DentAnalyst\DentAnalyst\obj\Debug\System T4.pdb
